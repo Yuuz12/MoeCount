@@ -15,6 +15,8 @@
 ##### rule34
 ![Rule34](https://moe.genshin.website/?theme=rule34)
 
+<details>
+    
 ## 演示
 [https://moe.genshin.website/?theme=rule34](https://moe.genshin.website/?theme=rule34)
 
